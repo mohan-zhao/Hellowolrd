@@ -1,2 +1,2 @@
 # Hellowolrd
-the practise
+for practice
